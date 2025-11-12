@@ -52,19 +52,43 @@ OPEN DATASETS:
 The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease.
 https://www.kpmp.org/about-kpmp
 
-	HUBMAP HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG/?_GL=1*C1FDYL*_GA*MTG4MTA1ODMWMS4XNZQWMJCZNDQ5*_GA_N77K0HBGRV*CZE3NTGWODUYMJQKBZIWJGCWJHQXNZU4MDG1MJI0JGO2MCRSMCROMA..
-	TCGA HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA 
-	GTEX HTTPS://GTEXPORTAL.ORG/HOME/ 
-	NCI'S CPTAC (PROTEOMICS, GENOMICS, HISTOPATHOLOGY) HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC 
-	NCI'S IMAGING DATA COMMONS HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS 
+Human BioMolecular Atlas Program Data Portal
+An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data
+HUBMAP HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG
+
+The Cancer Genome Atlas Program (TCGA)
+HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA 
+
+The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects.
+GTEX HTTPS://GTEXPORTAL.ORG/HOME/ 
+
+Clinical Proteomic Tumor Analysis Consortium (CPTAC)
+NCI'S CPTAC (proteomics, genomics, histopathology) 
+HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC 
+
+NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools. 
+HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS 
+
 	CZI'S HUMAN CELL ATLAS HTTPS://CELLXGENE.CZISCIENCE.COM/
+
+
 	HTTPS://WWW.HUMANCELLATLAS.ORG/ 
-	NCI'S HUMAN TUMOR ATLAS NETWORK HTTPS://HUMANTUMORATLAS.ORG/ 
+
+HTAN is a National Cancer Institute (NCI)-funded Cancer MoonshotSM initiative to construct 3-dimensional atlases of the dynamic cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease.
+https://humantumoratlas.org/
+
+
 	BRIDGE2AI'S FUNCTIONAL GENOMICS PROJECT (PROTEIN-PROTEIN INTERACTIONS, SINGLE-CELL IMAGING; TREY IDEKER AT UCSD IS PI) HTTPS://BRIDGE2AI.ORG/CM4AI_/ 
+
+
 	4 DIMENSIONAL NUCLEOME (IMAGING AND OMICS TO RELATE THE SPATIAL ORIENTATION OF THE NUCLEOME TO GENE REGULATION) HTTPS://4DNUCLEOME.ORG/ 
+
 	APOLLO PROGRAM (DOD, VA, NCI; CANCER PROGRAM WITH GENOMICS, PROTEOMICS, PATHOLOGY AND EXCELLENT LONGITUDINAL CLINICAL DATA OF VETERANS) HTTPS://DCTD.CANCER.GOV/PROGRAMS/OCCPR 
+
 	HTTPS://CELLXGENE.CZISCIENCE.COM/DATASETS
-	HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
+
+This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository. 
+HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
  
 
 maybe include Grad-CAM updates/versions such as Grad-CAM++, EighenGrad-CAM etc - some references are included at the end of this GitHub
