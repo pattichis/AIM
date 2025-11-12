@@ -44,10 +44,14 @@ HTTPS://GITHUB.COM/MAHMOODLAB/UNI
 Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab
 https://github.com/SarderLab
 
-	MOPADI - MORPHING HISTOPATHOLOGY DIFFUSION HTTPS://GITHUB.COM/KATHERLAB/MOPADI 
+MoPaDi - Morphing Histopathology Diffusion
+HTTPS://GITHUB.COM/KATHERLAB/MOPADI 
 
-	OPEN DATASETS:
-	KPMP HTTPS://WWW.KPMP.ORG/AVAILABLE-DATA
+OPEN DATASETS:
+
+The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease.
+https://www.kpmp.org/about-kpmp
+
 	HUBMAP HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG/?_GL=1*C1FDYL*_GA*MTG4MTA1ODMWMS4XNZQWMJCZNDQ5*_GA_N77K0HBGRV*CZE3NTGWODUYMJQKBZIWJGCWJHQXNZU4MDG1MJI0JGO2MCRSMCROMA..
 	TCGA HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA 
 	GTEX HTTPS://GTEXPORTAL.ORG/HOME/ 
@@ -63,42 +67,25 @@ https://github.com/SarderLab
 	HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 maybe include Grad-CAM updates/versions such as Grad-CAM++, EighenGrad-CAM etc - some references are included at the end of this GitHub
 https://github.com/jacobgil/pytorch-grad-cam
 https://arxiv.org/abs/2011.08891
+
 Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks Rachel L. Draelos, Lawrence Carin
 https://arxiv.org/abs/1710.11063
+
 Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader, Vineeth N Balasubramanian
 https://arxiv.org/abs/1910.01279
+
 Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks Haofan Wang, Zifan Wang, Mengnan Du, Fan Yang, Zijian Zhang, Sirui Ding, Piotr Mardziel, Xia Hu
 https://ieeexplore.ieee.org/abstract/document/9093360/
-Ablation-cam: Visual explanations for deep convolutional network via gradient-free localization. Saurabh Desai and Harish G Ramaswamy. In WACV, pages 972–980, 2020
+
+Ablation-cam: Visual explanations for deep convolutional network via gradient-free localization. Saurabh Desai and 
+Harish G Ramaswamy. In WACV, pages 972–980, 2020
 https://arxiv.org/abs/2008.02312
+
 Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs Ruigang Fu, Qingyong Hu, Xiaohu Dong, Yulan Guo, Yinghui Gao, Biao Li
 https://arxiv.org/abs/2008.00299
+
 Eigen-CAM: Class Activation Map using Principal Components Mohammed Bany Muhammad, Mohammed Yeasin
 http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf
-
-<img width="518" height="690" alt="image" src="https://github.com/user-attachments/assets/c0d5f1a1-5e16-4f99-8503-763b519e2ce3" />
