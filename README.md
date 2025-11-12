@@ -1,10 +1,16 @@
 # AIM
-This repo contains links to resources associated with AI/ML methods for medical images and videos.
+This repo contains links to resources associated with AI/ML methods for medical images and videos. ??? Add reference here ???
 
 OPEN AI MODELS:
- HISTOQC, HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC 
-	UNI, HIPT HTTPS://DOI.ORG/10.1038/S41591-024-02857-3 
-	CELLVIT HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS
+HistoQC is an open-source quality control tool for digital pathology slides
+HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC 
+
+Towards a general-purpose foundation model for computational pathology
+UNI, HIPT HTTPS://DOI.ORG/10.1038/S41591-024-02857-3 
+
+CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation
+CELLVIT HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS
+
 	CELL POSE HTTPS://GITHUB.COM/MOUSELAND/CELLPOSE 
 	PROV-GIGAPATH HTTPS://DOI.ORG/10.1038/S41586-024-07441-W , HTTPS://GITHUB.COM/PROV-GIGAPATH/PROV-GIGAPATH
 	H0-MINI: HTTPS://HUGGINGFACE.CO/BIOPTIMUS/H0-MINI
