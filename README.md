@@ -26,41 +26,25 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 
 # Open Models for Digital Image Analysis
 
-## Open models for digital pathology image analysis 
-* [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
-
-## Vision language foundation models for pathology
-* [CONCH: A Vision-Language Foundation Model for Computational Pathology](https://github.com/mahmoodlab/CONCH)
-
+## Vision Transformer Implementations
+* [vit-pytorch: PyTorch-based implementations of vision transformer architectures](https://github.com/lucidrains/vit-pytorch/blob/main/README.md)
+* [vit-tensorflow: Tensorflow-based implementations of vision transformer architectures](https://github.com/taki0112/vit-tensorflow)
+  
 ## Python libraries for Pathology image analysis
-	GITHUB: HTTPS://GITHUB.COM/LEIMAO/DEEPLAB-V3, HTTPS://ARXIV.ORG/ABS/1706.05587
-	CLAM: HTTPS://GITHUB.COM/MAHMOODLAB/CLAM
-	GITHUB: HTTPS://GITHUB.COM/LUCIDRAINS/VIT-PYTORCH  PAPER: DOSOVITSKIY A, BEYER L, KOLESNIKOV A, WEISSENBORN D, ZHAI X, UNTERTHINER T, DEHGHANI M, MINDERER M, HEIGOLD G, GELLY S, USZKOREIT J. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE. ARXIV PREPRINT ARXIV:2010.11929. 2020 OCT 22. LINK: HTTPS://ARXIV.ORG/ABS/2010.11929
-
+* [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
+* [CLAM: A Deep-Learning-based Pipeline for Data Efficient and Weakly Supervised Whole-Slide-level Analysis](https://github.com/MAHMOODLAB/CLAM)
 * [HistomicsTK is a Python package for the analysis of digital pathology images](HTTPS://GITHUB.COM/DIGITALSLIDEARCHIVE/HISTOMICSTK)
 * [Slideflow is a deep learning library for digital pathology, offering a user-friendly interface for model development](HTTPS://GITHUB.COM/SLIDEFLOW/SLIDEFLOW?TAB=README-OV-FILE) 
 * [Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab](https://github.com/SarderLab)
 * [MoPaDi - Morphing Histopathology Diffusion](HTTPS://GITHUB.COM/KATHERLAB/MOPADI)
 
-OPEN DATASETS:
-
-The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease.
-https://www.kpmp.org/about-kpmp
-
-Human BioMolecular Atlas Program Data Portal
-An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data
-HUBMAP HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG
-
-The Cancer Genome Atlas Program (TCGA)
-HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA 
-
-The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects.
-GTEX HTTPS://GTEXPORTAL.ORG/HOME/ 
-
-Clinical Proteomic Tumor Analysis Consortium (CPTAC)
-NCI'S CPTAC (proteomics, genomics, histopathology) 
-HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC 
-
+# Open datasets
+* [The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease](
+https://www.kpmp.org/about-kpmp)
+* [HUBMAP: Human BioMolecular Atlas Program Data Portal: An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data](HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG)
+* [TCGA: The Cancer Genome Atlas Program](HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA)
+* [GTEx: The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects](GTEX HTTPS://GTEXPORTAL.ORG/HOME/)
+* [NCI's CPTAC: Clinical Proteomic Tumor Analysis Consortium (proteomics, genomics, histopathology)](HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC) 
 * [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
 
 	CZI'S HUMAN CELL ATLAS HTTPS://CELLXGENE.CZISCIENCE.COM/
@@ -84,8 +68,6 @@ https://humantumoratlas.org/
 This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository. 
 HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
 
-# Medical Video Resources
-
 # Echocardiography
 ## [Echonet datasets and models](https://github.com/echonet)
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
@@ -96,23 +78,21 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 
 # Foundation Models
 
-## Foundation models for pathology
-* [A Pathology Foundation Model for Cancer Diagnosis and Prognosis Prediction](HTTPS://GITHUB.COM/HMS-DBMI/CHIEF)
-
-
-## Foundation Models
-
 ## Foundation model - related general libraries
 * [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER)
 * [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
 
 ## Foundation models for pathology image analysis
+*  [CHIEF - Clinical Histopathology Imaging Evaluation Foundation Model (focused on cancer)](https://github.com/HMS-DBMI/CHIEF)
 * [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
 * [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
 * [Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE)   
 * [Prov-GigaPath A whole-slide foundation model for digital pathology from real-world data](https://github.com/prov-gigapath/prov-gigapath)
 * [H0-mini is a lightweight foundation model for histology](https://huggingface.co/bioptimus/H0-mini)
 * [UNI: Towards a General-Purpose Foundation Model for Computational Pathology](HTTPS://GITHUB.COM/MAHMOODLAB/UNI)
+
+## Vision language foundation models for pathology
+* [CONCH: A Vision-Language Foundation Model for Computational Pathology](https://github.com/mahmoodlab/CONCH)
 
 ## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
 * Contains links to 10 different endoscopy video datasets.
@@ -166,7 +146,7 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 * [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
 * [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
 
-## Select PyTorch video classification models
+## Select PyTorch image and video classification models
 * [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
 * [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
 * [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
