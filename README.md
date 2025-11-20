@@ -96,7 +96,8 @@ https://www.kpmp.org/about-kpmp)
 * [SAM (Segment Anything Model, META, 2023)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING)
 * [SAM2 foundation model for video](https://github.com/facebookresearch/sam2)
 * [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)
-* [Meta Segment Anything Model 3 (SAM 3), a unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts](https://ai.meta.com/blog/segment-anything-model-3/)
+* [SAM3 A unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts](https://ai.meta.com/blog/segment-anything-model-3/)
+* [SAM3 paper](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/)
 
 # Instructional Medical Videos
 ## A dataset for medical instructional video classification and question answering
