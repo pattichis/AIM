@@ -36,13 +36,6 @@ Provide comparative examples:
 ## Open models for digital pathology image analysis 
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
 
-## Foundation models for pathology image analysis
-* [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
-* [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
-* [Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE)   
-* [Prov-GigaPath A whole-slide foundation model for digital pathology from real-world data](https://github.com/prov-gigapath/prov-gigapath)
-* [H0-mini is a lightweight foundation model for histology](https://huggingface.co/bioptimus/H0-mini)
-
 ## Vision language foundation models for pathology
 * [CONCH: A Vision-Language Foundation Model for Computational Pathology](https://github.com/mahmoodlab/CONCH)
 
@@ -115,13 +108,18 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 
 
 ## Foundation Models
+
+## Foundation model - related general libraries
 * [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER)
+* [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
+
+## Foundation models for pathology image analysis
+* [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
+* [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
+* [Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE)   
+* [Prov-GigaPath A whole-slide foundation model for digital pathology from real-world data](https://github.com/prov-gigapath/prov-gigapath)
+* [H0-mini is a lightweight foundation model for histology](https://huggingface.co/bioptimus/H0-mini)
 * [UNI: Towards a General-Purpose Foundation Model for Computational Pathology](HTTPS://GITHUB.COM/MAHMOODLAB/UNI)
-
-
-* [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation algorithms(HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
-* 
-
 
 ## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
 * Contains links to 10 different endoscopy video datasets.
