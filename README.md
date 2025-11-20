@@ -1,5 +1,5 @@
 # AIM
-This repo contains links to datasets and models associated with:
+This repo contains select links to datasets and models associated with:
 
 A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
 *IEEE Journal of Biomedical and Health Informatics*, 2025.
@@ -18,17 +18,12 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 ```
 
 
-# Open AI Models
-HistoQC is an open-source quality control tool for digital pathology slides
-HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC 
-
-Towards a general-purpose foundation model for computational pathology
-UNI, HIPT HTTPS://DOI.ORG/10.1038/S41591-024-02857-3 
-
-CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation
-CELLVIT HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS
-
-	CELL POSE HTTPS://GITHUB.COM/MOUSELAND/CELLPOSE 
+## Open models for digital pathology
+* [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
+* [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
+* [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
+* [CELL POSE](HTTPS://GITHUB.COM/MOUSELAND/CELLPOSE])
+*  
 	PROV-GIGAPATH HTTPS://DOI.ORG/10.1038/S41586-024-07441-W , HTTPS://GITHUB.COM/PROV-GIGAPATH/PROV-GIGAPATH
 	H0-MINI: HTTPS://HUGGINGFACE.CO/BIOPTIMUS/H0-MINI
 	CONCH (VLM): HTTPS://GITHUB.COM/MAHMOODLAB/CONCH/TREE/MAIN
@@ -45,15 +40,11 @@ HTTPS://GITHUB.COM/SLIDEFLOW/SLIDEFLOW?TAB=README-OV-FILE
 A Pathology Foundation Model for Cancer Diagnosis and Prognosis Prediction
 HTTPS://GITHUB.COM/HMS-DBMI/CHIEF 
 
-Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)
-HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER
 
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2
-
-
-SAM (Segment Anything Model, META, 2023) 
-HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING
+## Foundation Models
+* [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER)
+* [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation algorithms(HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
+* SAM (Segment Anything Model, META, 2023)[HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING)
 
 UNI: Towards a General-Purpose Foundation Model for Computational Pathology
 HTTPS://GITHUB.COM/MAHMOODLAB/UNI
@@ -106,7 +97,82 @@ https://humantumoratlas.org/
 
 This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository. 
 HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
- 
+
+# Medical Video Resources
+This document contains links to recent datasets, models, and papers related to medical video analysis.<br />
+Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
+
+# Echocardiography
+## [Echonet datasets and models](https://github.com/echonet)
+* [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
+* [EchoNet-Pediatric: A Large Pediatric Echocardiography Video Dataset and Model link](https://echonet.github.io/pediatric/index.html), [paper](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S0894731723000688?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0894731723000688%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F).
+* [EchoNet-Dynamic: Interpretable AI for beat-to-beat cardiac function assessment Dataset, Model, and Paper](https://github.com/echonet/dynamic)
+* [EchoNet: Tee-View-Classifier datasets and paper](https://aimi.stanford.edu/datasets/echonet-tee-view-classifier) and [model](https://github.com/echonet/tee-view-classifier)
+* [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808) (also see Generative AI Video Models).
+
+# Foundation Models
+## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
+* Contains links to 10 different endoscopy video datasets.
+* A large-scale endoscopic video dataset with over 33K video clips.
+* Supports 3 types of downstream tasks, including classification, segmentation, and detection.
+
+## [SAM2 foundation model for video segmentation](https://ai.meta.com/sam2/)
+* [SAM2 foundation model for video](https://github.com/facebookresearch/sam2)
+* [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)
+
+# Instructional Medical Videos
+## A dataset for medical instructional video classification and question answering
+* [MedVidQACL datasets and models](https://github.com/deepaknlp/MedVidQACL)
+* [Paper](https://www.nature.com/articles/s41597-023-02036-y)
+  
+## [How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?](https://arxiv.org/abs/2504.14391)
+* Main website with model: [OpenBiomedVid](https://github.com/zou-group/OpenBiomedVid)
+* [OpenBiomedVid dataset](https://huggingface.co/datasets/connectthapa84/OpenBiomedVid)
+* [SurgeryVideoQA](https://huggingface.co/datasets/connectthapa84/SurgeryVideoQA)
+* [MIMIC-IV-ECHO: Echocardiogram Matched Subset](https://physionet.org/content/mimic-iv-echo/0.1/)
+* [Related OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
+* [OpenAI models](https://github.com/openai/gpt-oss)
+
+# Generative AI Video Models
+## EchoNet-Synthetic
+* [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
+## Endora
+* [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
+
+# Other Medical video-related datasets
+* [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
+* [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
+* [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
+  
+# Tensorflow models for video and multimodal risk assessment (select)
+* [DISIML models: Echo, ECG, tabular data models, and autoencoders for dimensionality reduction](https://alvarouc.gitlab.io/disiml/)
+* [A Large-scale Multimodal Study for Predicting Mortality Risk Using Minimal and Low Parameter Models and Separable Risk Assessment](https://ieeexplore.ieee.org/abstract/document/10839321)
+* [Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality](https://www.nature.com/articles/s41551-020-00667-9)
+
+# PyTorch Video Models, Datasets, and Optimization Resources
+## [PyTorch video resources](https://pytorchvideo.org/)
+* [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
+* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
+* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
+* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
+
+## Select PyTorch video classification models
+* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
+* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
+* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
+* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
+* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
+* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
+
+## PyTorch video documentation
+* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
+* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
+
+## PyTorch Guidelines for training models
+* [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
+
+
+
 ## Explainability
 maybe include Grad-CAM updates/versions such as Grad-CAM++, EighenGrad-CAM etc - some references are included at the end of this GitHub
 https://github.com/jacobgil/pytorch-grad-cam
