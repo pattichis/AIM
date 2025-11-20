@@ -1,6 +1,9 @@
 # AIM
 This repo contains links to resources associated with AI/ML methods for medical images and videos. ??? Add reference here ???
 
+Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers<img width="488" height="104" alt="image" src="https://github.com/user-attachments/assets/ff21fd80-57b9-45a9-8a56-53b51cae8f01" />
+
+
 OPEN AI MODELS:
 HistoQC is an open-source quality control tool for digital pathology slides
 HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC 
