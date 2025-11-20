@@ -24,8 +24,27 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 
 For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
-# Open Models for Digital Image Analysis
 
+## Required dataset examples
+Provide comparative examples:
+- First column should be the ground truth.
+- Each column should contain results from a different model.
+- Add discussion for the performance.
+
+## [Main optimization link in PyTorch](https://docs.pytorch.org/docs/stable/optim.html)
+* [PyTorch optimization methods](https://docs.pytorch.org/docs/stable/optim.html#algorithms).
+* [PyTorch vision models training parameters](https://github.com/pytorch/vision/tree/main/references/classification)
+
+## [Pytorch: Adjusting the learning rate](https://docs.pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate)
+* [A (Very Short) Visual Introduction to Learning Rate Schedulers (With Code)](https://medium.com/@theom/a-very-short-visual-introduction-to-learning-rate-schedulers-with-code-189eddffdb00)
+* [Step learning rate scheduler](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.StepLR.html)
+* [Reduce the learning rate when we reach a plateau](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.ReduceLROnPlateau.html) 
+
+## Model Evaluation Notes
+For evaluating your models, consider
+   [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka.](https://arxiv.org/abs/1811.12808).
+
+# Open Models for Digital Image Analysis
 
 ## Open models for digital pathology image analysis 
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
