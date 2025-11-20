@@ -1,6 +1,6 @@
 # AIM
 This document contains links to select datasets, models, and papers related to AI in Medical Image Analysis.<br />
-Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
+The links have been verified in November, 2025. Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
 
 Please reference:
 
@@ -29,7 +29,8 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
 * [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
 * [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
-* [CELL POSE](HTTPS://GITHUB.COM/MOUSELAND/CELLPOSE])
+* Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE) 
+  
 *  
 	PROV-GIGAPATH HTTPS://DOI.ORG/10.1038/S41586-024-07441-W , HTTPS://GITHUB.COM/PROV-GIGAPATH/PROV-GIGAPATH
 	H0-MINI: HTTPS://HUGGINGFACE.CO/BIOPTIMUS/H0-MINI
@@ -69,8 +70,7 @@ Clinical Proteomic Tumor Analysis Consortium (CPTAC)
 NCI'S CPTAC (proteomics, genomics, histopathology) 
 HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC 
 
-NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools. 
-HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS 
+* [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
 
 	CZI'S HUMAN CELL ATLAS HTTPS://CELLXGENE.CZISCIENCE.COM/
 
