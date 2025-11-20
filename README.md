@@ -38,7 +38,7 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab](https://github.com/SarderLab)
 * [MoPaDi - Morphing Histopathology Diffusion](HTTPS://GITHUB.COM/KATHERLAB/MOPADI)
 
-# Open datasets
+# Open datasets focused on pathology
 * [The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease](
 https://www.kpmp.org/about-kpmp)
 * [HUBMAP: Human BioMolecular Atlas Program Data Portal: An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data](HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG)
@@ -46,14 +46,10 @@ https://www.kpmp.org/about-kpmp)
 * [GTEx: The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects](HTTPS://GTEXPORTAL.ORG/HOME/)
 * [NCI's CPTAC: Clinical Proteomic Tumor Analysis Consortium (proteomics, genomics, histopathology)](HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC) 
 * [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
-
-	CZI'S HUMAN CELL ATLAS HTTPS://CELLXGENE.CZISCIENCE.COM/
-
-
-	HTTPS://WWW.HUMANCELLATLAS.ORG/ 
-
-HTAN is a National Cancer Institute (NCI)-funded Cancer MoonshotSM initiative to construct 3-dimensional atlases of the dynamic cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease.
-https://humantumoratlas.org/
+* [Download and visually explore data to understand the functionality of human tissues at the cellular level with Chan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover](https://cellxgene.cziscience.com/)
+* [The Human Cell Atlas is a global consortium that is mapping every cell type in the human body, creating a 3-dimensional Atlas of human cells to transform our understanding of biology and disease]
+(https://www.humancellatlas.org) 
+* [HTAN is a National Cancer Institute (NCI)-funded Cancer MoonshotSM initiative to construct 3-dimensional atlases of the dynamic cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease](https://humantumoratlas.org/)
 
 
 	BRIDGE2AI'S FUNCTIONAL GENOMICS PROJECT (PROTEIN-PROTEIN INTERACTIONS, SINGLE-CELL IMAGING; TREY IDEKER AT UCSD IS PI) HTTPS://BRIDGE2AI.ORG/CM4AI_/ 
@@ -61,12 +57,9 @@ https://humantumoratlas.org/
 
 	4 DIMENSIONAL NUCLEOME (IMAGING AND OMICS TO RELATE THE SPATIAL ORIENTATION OF THE NUCLEOME TO GENE REGULATION) HTTPS://4DNUCLEOME.ORG/ 
 
-	APOLLO PROGRAM (DOD, VA, NCI; CANCER PROGRAM WITH GENOMICS, PROTEOMICS, PATHOLOGY AND EXCELLENT LONGITUDINAL CLINICAL DATA OF VETERANS) HTTPS://DCTD.CANCER.GOV/PROGRAMS/OCCPR 
-
-	HTTPS://CELLXGENE.CZISCIENCE.COM/DATASETS
-
-This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository. 
-HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
+* [Apollo: The Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) Network (DOD, VA, NCI; cancer program with genomics, proteomics, pathology and excellent longitudinal clinical data of veterans](https://www.cancer.gov/about-nci/organization/cbiit/projects/apollo)
+* [CELLxGENE is a suite of tools that help scientists to find, download, explore, analyze, annotate, and publish single cell datasets](https://cellxgene.cziscience.com/docs/01__CellxGene)
+* [GDS: This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository](https://www.ncbi.nlm.nih.gov/gds/?term)
 
 # Echocardiography
 ## [Echonet datasets and models](https://github.com/echonet)
