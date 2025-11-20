@@ -1,7 +1,12 @@
 # AIM
 This repo contains links to resources associated with AI/ML methods for medical images and videos. ??? Add reference here ???
 
-Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers<img width="488" height="104" alt="image" src="https://github.com/user-attachments/assets/ff21fd80-57b9-45a9-8a56-53b51cae8f01" />
+Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers
+
+A. S. Panayides, Senior Member, IEEE, H. Chen, Senior Member, IEEE, N. D. Filipovic, T. Geroski, J. Hou, K. Lekadir, K. Marias, Senior Member, IEEE, G. Matsopoulos, Senior Member, IEEE, G. Papanastasiou, P. Sarder, Senior Member, IEEE, G. Tourassi, Senior Member, IEEE, S. A. Tsaftaris, Senior Member, IEEE, A. Amini, Fellow, IEEE, H. Fu, E. Kyriacou, Senior Member, IEEE, C.P. Loizou, M. Zervakis, Senior Member, IEEE, J.H. Saltz, Senior Member, IEEE, F. E. Shamout, K. C. L. Wong, Senior Member, IEEE, J. Yao, 
+D.I. Fotiadis, Fellow, IEEE, C.S. Pattichis, Life Fellow, IEEE, M.S. Pattichis, Senior Member, IEEE
+<img width="468" height="122" alt="image" src="https://github.com/user-attachments/assets/2f301e92-e594-40c1-bb2e-37a19ef1ee24" />
+
 
 
 OPEN AI MODELS:
