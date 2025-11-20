@@ -19,7 +19,10 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 
 For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
-## Open models for digital pathology
+# Open Models for Digital Image Analysis
+
+
+## Open models for digital pathology image analysis
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
 * [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
 * [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
@@ -37,18 +40,6 @@ HTTPS://GITHUB.COM/DIGITALSLIDEARCHIVE/HISTOMICSTK
 
 Slideflow is a deep learning library for digital pathology, offering a user-friendly interface for model development.
 HTTPS://GITHUB.COM/SLIDEFLOW/SLIDEFLOW?TAB=README-OV-FILE 
-
-A Pathology Foundation Model for Cancer Diagnosis and Prognosis Prediction
-HTTPS://GITHUB.COM/HMS-DBMI/CHIEF 
-
-
-## Foundation Models
-* [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER)
-* [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation algorithms(HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
-* SAM (Segment Anything Model, META, 2023)[HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING)
-
-UNI: Towards a General-Purpose Foundation Model for Computational Pathology
-HTTPS://GITHUB.COM/MAHMOODLAB/UNI
 
 Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab
 https://github.com/SarderLab
@@ -112,14 +103,30 @@ Click on the Outline button (upper-right button in GitHub) to jump to a particul
 * [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808) (also see Generative AI Video Models).
 
 # Foundation Models
+
+## Foundation models for pathology
+* [A Pathology Foundation Model for Cancer Diagnosis and Prognosis Prediction](HTTPS://GITHUB.COM/HMS-DBMI/CHIEF)
+
+
+## Foundation Models
+* [Mask2Former: Masked-attention Mask Transformer for Universal Image Segmentation (CVPR 2022)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/MASK2FORMER)
+* [UNI: Towards a General-Purpose Foundation Model for Computational Pathology](HTTPS://GITHUB.COM/MAHMOODLAB/UNI)
+
+
+* [Detectron2 is Facebook AI Research's next-generation library that provides state-of-the-art detection and segmentation algorithms(HTTPS://GITHUB.COM/FACEBOOKRESEARCH/DETECTRON2)
+* 
+
+
 ## [Foundation Model for Endoscopy Video Analysis](https://github.com/openmedlab/Endo-FM)
 * Contains links to 10 different endoscopy video datasets.
 * A large-scale endoscopic video dataset with over 33K video clips.
 * Supports 3 types of downstream tasks, including classification, segmentation, and detection.
 
-## [SAM2 foundation model for video segmentation](https://ai.meta.com/sam2/)
+## SAM foundation models for image and video segmentation
+* [SAM (Segment Anything Model, META, 2023)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING)
 * [SAM2 foundation model for video](https://github.com/facebookresearch/sam2)
 * [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)
+* [Meta Segment Anything Model 3 (SAM 3), a unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts](https://ai.meta.com/blog/segment-anything-model-3/)
 
 # Instructional Medical Videos
 ## A dataset for medical instructional video classification and question answering
