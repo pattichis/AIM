@@ -1,18 +1,17 @@
 # AIM
-This repo contains links to resources associated with AI/ML methods for medical images and videos. ??? Add reference here ???
+This repo contains links to datasets and models associated with:
 
-## References
-
-[1] H. Jiang *et al.*, “Fast-DDPM: Fast denoising diffusion probabilistic models for medical image-to-image generation,” 
-*IEEE Journal of Biomedical and Health Informatics*, vol. 29, 2025.
+A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
+*IEEE Journal of Biomedical and Health Informatics*, 2025.
 
 @article{AIinMedicalImaging,
   title={Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
-  author={Panayides, A.S., and Chen, H. Senior Member, IEEE, N. D. Filipovic, T. Geroski, J. Hou, K. Lekadir, K. Marias, Senior Member, IEEE, G. Matsopoulos, Senior Member, IEEE, G. Papanastasiou, P. Sarder, Senior Member, IEEE, G. Tourassi, Senior Member, IEEE, S. A. Tsaftaris, Senior Member, IEEE, A. Amini, Fellow, IEEE, H. Fu, E. Kyriacou, Senior Member, IEEE, C.P. Loizou, M. Zervakis, Senior Member, IEEE, J.H. Saltz, Senior Member, IEEE, F. E. Shamout, K. C. L. Wong, Senior Member, IEEE, J. Yao, 
-D.I. Fotiadis, Fellow, IEEE, C.S. Pattichis, Life Fellow, IEEE, M.S. Pattichis, Senior Member, IEEE
-  
-  Smith, John and Doe, Jane},
-  journal={IEEE Transactions on Something},
+  author={Panayides, A. S., and Chen, H. and Filipovic, N. D. and Geroski, T. and Hou, K. and Lekadir, K. and 
+  Marias, K. and Matsopoulos, G. and Papanastasiou, G. and Sarder, P. and Tourassi, G. and  
+  Tsaftaris, S. A. and Amini, A. and Fu, H. and Kyriacou, E. and Loizou, C. P. and Zervakis, M. and 
+  Saltz, J. H. and Shamout, F. E. and Wong, K. C. L. and Yao, J. and Fotiadis, D. I. and
+  Pattichis, C. S. and Pattichis, M. S.}
+  journal={submitted to IEEE Journal on Biomedical and Health Informatics},
   year={2024}
 }
 
