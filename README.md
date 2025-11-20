@@ -26,10 +26,15 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 
 # Open Models for Digital Image Analysis
 
+## PyTorch Image encoders/backbones
+* [pytorch-image-models: The largest collection of PyTorch image encoders/backbones. Including train, eval, inference, export scripts, and pretrained weights](https://github.com/huggingface/pytorch-image-models?tab=readme-ov-file#getting-started-documentation)
+
 ## Vision Transformer Implementations
 * [vit-pytorch: PyTorch-based implementations of vision transformer architectures](https://github.com/lucidrains/vit-pytorch/blob/main/README.md)
 * [vit-tensorflow: Tensorflow-based implementations of vision transformer architectures](https://github.com/taki0112/vit-tensorflow)
-  
+* [pytorch-image-models: Contains pre-trained trasnformer models](https://github.com/huggingface/pytorch-image-models?tab=readme-ov-file#getting-started-documentation)
+ 
+
 ## Python libraries for Pathology image analysis
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
 * [CLAM: A Deep-Learning-based Pipeline for Data Efficient and Weakly Supervised Whole-Slide-level Analysis](https://github.com/MAHMOODLAB/CLAM)
