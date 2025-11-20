@@ -171,3 +171,9 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 For evaluating your models, consider
    [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning by Sebastian Raschka.](https://arxiv.org/abs/1811.12808).
 
+## How to find other datasets and models from general purpose websites
+1. Search for Datasets on [Google Dataset Search](https://datasetsearch.research.google.com/).
+2. Search for [Papers with code](https://paperswithcode.com/). Look separately for Methods and Datasets.
+3. Search for datasets, models, and dataset competitions on [kaggle](https://www.kaggle.com/).
+4. Search for Computer Vision datasets on [PyTorch vision datasets website](https://pytorch.org/vision/stable/datasets.html).
+5. Search for pretrained PyTorch models [PyTorch models website](https://pytorch.org/vision/stable/models.html).   
