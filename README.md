@@ -1,6 +1,9 @@
 # AIM
 This document contains links to select datasets, models, and papers related to AI in Medical Image Analysis.<br />
-The links have been verified in November, 2025. Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
+The links have been verified in November, 2025. 
+
+<span style="color: red;">Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.
+</span>
 
 Please reference:
 
