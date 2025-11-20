@@ -2,7 +2,7 @@
 This document contains links to select datasets, models, papers, and related PyTorch links related to AI in Medical Image Analysis.<br />
 The links have been verified in December, 2025. 
 
-🔴 **Important:** Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.
+🔴 **Important:** Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 **Important:** Right-click on each link to open in a new browser window.
 
 Please reference:
@@ -26,6 +26,11 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
 # Open Models for Digital Image Analysis
+
+# A generalist vision–language foundation model for diverse biomedical tasks
+* [BiomedGPT is pre-trained and fine-tuned with multi-modal & multi-task biomedical datasets](https://github.com/taokz/BiomedGPT)
+* [BiomedGPT paper link](https://www.nature.com/articles/s41591-024-03185-2)
+* [BiomedGPT Google Drive based Google Colab](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we)
 
 ## PyTorch Image encoders/backbones
 * [pytorch-image-models: The largest collection of PyTorch image encoders/backbones. Including train, eval, inference, export scripts, and pretrained weights](https://github.com/huggingface/pytorch-image-models?tab=readme-ov-file#getting-started-documentation)
