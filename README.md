@@ -24,13 +24,6 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 
 For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
-
-## Required dataset examples
-Provide comparative examples:
-- First column should be the ground truth.
-- Each column should contain results from a different model.
-- Add discussion for the performance.
-
 # Open Models for Digital Image Analysis
 
 ## Open models for digital pathology image analysis 
