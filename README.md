@@ -1,7 +1,22 @@
 # AIM
 This repo contains links to resources associated with AI/ML methods for medical images and videos. ??? Add reference here ???
 
-Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers
+## References
+
+[1] H. Jiang *et al.*, “Fast-DDPM: Fast denoising diffusion probabilistic models for medical image-to-image generation,” 
+*IEEE Journal of Biomedical and Health Informatics*, vol. 29, 2025.
+
+@article{AIinMedicalImaging,
+  title={Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
+  author={Panayides, A.S., and Chen, H. Senior Member, IEEE, N. D. Filipovic, T. Geroski, J. Hou, K. Lekadir, K. Marias, Senior Member, IEEE, G. Matsopoulos, Senior Member, IEEE, G. Papanastasiou, P. Sarder, Senior Member, IEEE, G. Tourassi, Senior Member, IEEE, S. A. Tsaftaris, Senior Member, IEEE, A. Amini, Fellow, IEEE, H. Fu, E. Kyriacou, Senior Member, IEEE, C.P. Loizou, M. Zervakis, Senior Member, IEEE, J.H. Saltz, Senior Member, IEEE, F. E. Shamout, K. C. L. Wong, Senior Member, IEEE, J. Yao, 
+D.I. Fotiadis, Fellow, IEEE, C.S. Pattichis, Life Fellow, IEEE, M.S. Pattichis, Senior Member, IEEE
+  
+  Smith, John and Doe, Jane},
+  journal={IEEE Transactions on Something},
+  year={2024}
+}
+
+
 
 A. S. Panayides, Senior Member, IEEE, H. Chen, Senior Member, IEEE, N. D. Filipovic, T. Geroski, J. Hou, K. Lekadir, K. Marias, Senior Member, IEEE, G. Matsopoulos, Senior Member, IEEE, G. Papanastasiou, P. Sarder, Senior Member, IEEE, G. Tourassi, Senior Member, IEEE, S. A. Tsaftaris, Senior Member, IEEE, A. Amini, Fellow, IEEE, H. Fu, E. Kyriacou, Senior Member, IEEE, C.P. Loizou, M. Zervakis, Senior Member, IEEE, J.H. Saltz, Senior Member, IEEE, F. E. Shamout, K. C. L. Wong, Senior Member, IEEE, J. Yao, 
 D.I. Fotiadis, Fellow, IEEE, C.S. Pattichis, Life Fellow, IEEE, M.S. Pattichis, Senior Member, IEEE
