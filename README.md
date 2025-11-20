@@ -1,5 +1,5 @@
 # AIM
-This repo contains select links to datasets and models associated with:
+This repo contains select links to open datasets and models associated with:
 
 A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
 *IEEE Journal of Biomedical and Health Informatics*, 2025.
@@ -17,6 +17,7 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 }
 ```
 
+For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
 ## Open models for digital pathology
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
