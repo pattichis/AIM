@@ -18,6 +18,8 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
   journal={submitted to IEEE Journal on Biomedical and Health Informatics},
   year={2024}
 }
+</details> ```
+
 
 OPEN AI MODELS:
 HistoQC is an open-source quality control tool for digital pathology slides
