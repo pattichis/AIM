@@ -1,5 +1,8 @@
 # AIM
-This repo contains select links to open datasets and models associated with:
+This document contains links to select datasets, models, and papers related to AI in Medical Image Analysis.<br />
+Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
+
+Please reference:
 
 A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
 *IEEE Journal of Biomedical and Health Informatics*, 2025.
@@ -91,8 +94,30 @@ This database stores curated gene expression DataSets, as well as original Serie
 HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
 
 # Medical Video Resources
-This document contains links to recent datasets, models, and papers related to medical video analysis.<br />
-Click on the Outline button (upper-right button in GitHub) to jump to a particular topic.
+
+
+
+# PyTorch Video Models, Datasets, and Optimization Resources
+## [PyTorch video resources](https://pytorchvideo.org/)
+* [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
+* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
+* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
+* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
+
+## Select PyTorch video classification models
+* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
+* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
+* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
+* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
+* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
+* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
+
+## PyTorch video documentation
+* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
+* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
+
+## PyTorch Guidelines for training models
+* [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
 
 # Echocardiography
 ## [Echonet datasets and models](https://github.com/echonet)
@@ -142,12 +167,8 @@ Click on the Outline button (upper-right button in GitHub) to jump to a particul
 * [OpenAI models](https://github.com/openai/gpt-oss)
 
 # Generative AI Video Models
-## EchoNet-Synthetic
 * [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
-## Endora
 * [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
-
-# Other Medical video-related datasets
 * [A multimodal video dataset of human spermatozoa](https://www.kaggle.com/datasets/stevenhicks/visem-video-dataset)
 * [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
 * [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
@@ -156,28 +177,6 @@ Click on the Outline button (upper-right button in GitHub) to jump to a particul
 * [DISIML models: Echo, ECG, tabular data models, and autoencoders for dimensionality reduction](https://alvarouc.gitlab.io/disiml/)
 * [A Large-scale Multimodal Study for Predicting Mortality Risk Using Minimal and Low Parameter Models and Separable Risk Assessment](https://ieeexplore.ieee.org/abstract/document/10839321)
 * [Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality](https://www.nature.com/articles/s41551-020-00667-9)
-
-# PyTorch Video Models, Datasets, and Optimization Resources
-## [PyTorch video resources](https://pytorchvideo.org/)
-* [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
-* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
-* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
-* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
-
-## Select PyTorch video classification models
-* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
-* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
-* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
-* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
-* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
-* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
-
-## PyTorch video documentation
-* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
-* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
-
-## PyTorch Guidelines for training models
-* [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
 
 
 
