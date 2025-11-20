@@ -25,31 +25,28 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 # Open Models for Digital Image Analysis
 
 
-## Open models for digital pathology image analysis
+## Open models for digital pathology image analysis 
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
+
+## Foundation models for pathology image analysis
 * [UNI HIPT: Towards a general-purpose foundation model for computational pathology](HTTPS://DOI.ORG/10.1038/S41591-024-02857-3)
 * [CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation CELLVIT](HTTPS://GITHUB.COM/TIO-IKIM/CELLVIT-PLUS-PLUS)
-* Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE) 
-  
-*  
-	PROV-GIGAPATH HTTPS://DOI.ORG/10.1038/S41586-024-07441-W , HTTPS://GITHUB.COM/PROV-GIGAPATH/PROV-GIGAPATH
-	H0-MINI: HTTPS://HUGGINGFACE.CO/BIOPTIMUS/H0-MINI
-	CONCH (VLM): HTTPS://GITHUB.COM/MAHMOODLAB/CONCH/TREE/MAIN
+* [Cellpose-SAM: cell and nucleus segmentation with superhuman generalization](https://github.com/MOUSELAND/CELLPOSE)   
+* [Prov-GigaPath A whole-slide foundation model for digital pathology from real-world data](https://github.com/prov-gigapath/prov-gigapath)
+* [H0-mini is a lightweight foundation model for histology](https://huggingface.co/bioptimus/H0-mini)
+
+## Vision language foundation models for pathology
+* [CONCH: A Vision-Language Foundation Model for Computational Pathology](https://github.com/mahmoodlab/CONCH)
+
+## Python libraries for Pathology image analysis
 	GITHUB: HTTPS://GITHUB.COM/LEIMAO/DEEPLAB-V3, HTTPS://ARXIV.ORG/ABS/1706.05587
 	CLAM: HTTPS://GITHUB.COM/MAHMOODLAB/CLAM
 	GITHUB: HTTPS://GITHUB.COM/LUCIDRAINS/VIT-PYTORCH  PAPER: DOSOVITSKIY A, BEYER L, KOLESNIKOV A, WEISSENBORN D, ZHAI X, UNTERTHINER T, DEHGHANI M, MINDERER M, HEIGOLD G, GELLY S, USZKOREIT J. AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE. ARXIV PREPRINT ARXIV:2010.11929. 2020 OCT 22. LINK: HTTPS://ARXIV.ORG/ABS/2010.11929
 
-HistomicsTK is a Python package for the analysis of digital pathology images.
-HTTPS://GITHUB.COM/DIGITALSLIDEARCHIVE/HISTOMICSTK 
-
-Slideflow is a deep learning library for digital pathology, offering a user-friendly interface for model development.
-HTTPS://GITHUB.COM/SLIDEFLOW/SLIDEFLOW?TAB=README-OV-FILE 
-
-Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab
-https://github.com/SarderLab
-
-MoPaDi - Morphing Histopathology Diffusion
-HTTPS://GITHUB.COM/KATHERLAB/MOPADI 
+* [HistomicsTK is a Python package for the analysis of digital pathology images](HTTPS://GITHUB.COM/DIGITALSLIDEARCHIVE/HISTOMICSTK)
+* [Slideflow is a deep learning library for digital pathology, offering a user-friendly interface for model development](HTTPS://GITHUB.COM/SLIDEFLOW/SLIDEFLOW?TAB=README-OV-FILE) 
+* [Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab](https://github.com/SarderLab)
+* [MoPaDi - Morphing Histopathology Diffusion](HTTPS://GITHUB.COM/KATHERLAB/MOPADI)
 
 OPEN DATASETS:
 
