@@ -14,7 +14,8 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
   Pattichis, C. S. and Pattichis, M. S.}
   journal={submitted to IEEE Journal on Biomedical and Health Informatics},
   year={2024}
-} ```
+}
+```
 
 
 OPEN AI MODELS:
