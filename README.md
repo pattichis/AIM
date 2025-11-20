@@ -4,7 +4,10 @@ This repo contains links to datasets and models associated with:
 A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
 *IEEE Journal of Biomedical and Health Informatics*, 2025.
 
-```bibtex
+<details>
+<summary>Click to show BibTeX</summary>
+
+  ```bibtex
 @article{AIinMedicalImaging,
   title={Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
   author={Panayides, A. S., and Chen, H. and Filipovic, N. D. and Geroski, T. and Hou, K. and Lekadir, K. and 
@@ -15,14 +18,6 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
   journal={submitted to IEEE Journal on Biomedical and Health Informatics},
   year={2024}
 }
-
-
-
-A. S. Panayides, Senior Member, IEEE, H. Chen, Senior Member, IEEE, N. D. Filipovic, T. Geroski, J. Hou, K. Lekadir, K. Marias, Senior Member, IEEE, G. Matsopoulos, Senior Member, IEEE, G. Papanastasiou, P. Sarder, Senior Member, IEEE, G. Tourassi, Senior Member, IEEE, S. A. Tsaftaris, Senior Member, IEEE, A. Amini, Fellow, IEEE, H. Fu, E. Kyriacou, Senior Member, IEEE, C.P. Loizou, M. Zervakis, Senior Member, IEEE, J.H. Saltz, Senior Member, IEEE, F. E. Shamout, K. C. L. Wong, Senior Member, IEEE, J. Yao, 
-D.I. Fotiadis, Fellow, IEEE, C.S. Pattichis, Life Fellow, IEEE, M.S. Pattichis, Senior Member, IEEE
-<img width="468" height="122" alt="image" src="https://github.com/user-attachments/assets/2f301e92-e594-40c1-bb2e-37a19ef1ee24" />
-
-
 
 OPEN AI MODELS:
 HistoQC is an open-source quality control tool for digital pathology slides
