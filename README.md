@@ -100,30 +100,6 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 
 # Medical Video Resources
 
-
-
-# PyTorch Video Models, Datasets, and Optimization Resources
-## [PyTorch video resources](https://pytorchvideo.org/)
-* [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
-* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
-* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
-* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
-
-## Select PyTorch video classification models
-* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
-* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
-* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
-* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
-* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
-* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
-
-## PyTorch video documentation
-* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
-* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
-
-## PyTorch Guidelines for training models
-* [Model training information](https://github.com/pattichis/AIMV/blob/main/opt.md)
-
 # Echocardiography
 ## [Echonet datasets and models](https://github.com/echonet)
 * [EchonNet-LVH: A Large Parasternal Long Axis Echocardiography Video Dataset, Model, and  Paper](https://echonet.github.io/lvh/), [model](https://github.com/echonet/lvh), [paper](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370).
@@ -183,32 +159,33 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 * [A Large-scale Multimodal Study for Predicting Mortality Risk Using Minimal and Low Parameter Models and Separable Risk Assessment](https://ieeexplore.ieee.org/abstract/document/10839321)
 * [Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality](https://www.nature.com/articles/s41551-020-00667-9)
 
+# Open Models for Explainability
+* [Gradcam: Advanced AI explainability for PyTorch](https://github.com/jacobgil/pytorch-grad-cam)
+* [HiResCAM: A small demo of the HiResCAM and Grad-CAM gradient-based neural network explanation methods](https://github.com/rachellea/hirescam)
+* [Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks](https://github.com/adityac94/Grad_CAM_plus_plus)
+* [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://github.com/haofanwang/Score-CAM)
+* [Ablation-CAM: Visual Explanations for Deep Convolutional Network via Gradient-free Localization](https://github.com/ShreyPandit/Ablation-Cam)
+* [Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs](https://github.com/Fu0511/XGrad-CAM)
+* [LayerCAM: Exploring Hierarchical Class Activation Maps for Localization](https://github.com/mhyatt000/layerCAM)
 
+# PyTorch Video Models, Datasets, and Optimization Resources
+## [PyTorch video resources](https://pytorchvideo.org/)
+* [Models documentation](https://pytorchvideo.readthedocs.io/en/latest/models.html)
+* [Models on GitHub](https://github.com/facebookresearch/pytorchvideo/tree/main/pytorchvideo/models/hub)
+* [Pretrained models on specific datasets and performance](https://github.com/facebookresearch/pytorchvideo/blob/main/docs/source/model_zoo.md)
+* [Build your own model tutorial](https://pytorchvideo.org/docs/tutorial_accelerator_build_your_model#introduction)
 
-## Explainability
-maybe include Grad-CAM updates/versions such as Grad-CAM++, EighenGrad-CAM etc - some references are included at the end of this GitHub
-https://github.com/jacobgil/pytorch-grad-cam
-https://arxiv.org/abs/2011.08891
+## Select PyTorch video classification models
+* [Vision ResNet model](https://docs.pytorch.org/vision/stable/models/video_resnet.html)
+* [3D ResNet](https://pytorch.org/hub/facebookresearch_pytorchvideo_resnet/)
+* [X3D: Expanding Architectures for Efficient Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_x3d/)
+* [SlowFast Networks for Video Recognition](https://pytorch.org/hub/facebookresearch_pytorchvideo_slowfast/)
+* [MViTv2: Improved Multiscale Vision Transformers for Classification and Detection](https://docs.pytorch.org/vision/main/models/video_mvit.html)
+* [Video Swin Transformer model](https://docs.pytorch.org/vision/stable/models/video_swin_transformer.html)
 
-Use HiResCAM instead of Grad-CAM for faithful explanations of convolutional neural networks Rachel L. Draelos, Lawrence Carin
-https://arxiv.org/abs/1710.11063
-
-Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks Aditya Chattopadhyay, Anirban Sarkar, Prantik Howlader, Vineeth N Balasubramanian
-https://arxiv.org/abs/1910.01279
-
-Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks Haofan Wang, Zifan Wang, Mengnan Du, Fan Yang, Zijian Zhang, Sirui Ding, Piotr Mardziel, Xia Hu
-https://ieeexplore.ieee.org/abstract/document/9093360/
-
-Ablation-cam: Visual explanations for deep convolutional network via gradient-free localization. Saurabh Desai and 
-Harish G Ramaswamy. In WACV, pages 972–980, 2020
-https://arxiv.org/abs/2008.02312
-
-Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs Ruigang Fu, Qingyong Hu, Xiaohu Dong, Yulan Guo, Yinghui Gao, Biao Li
-https://arxiv.org/abs/2008.00299
-
-Eigen-CAM: Class Activation Map using Principal Components Mohammed Bany Muhammad, Mohammed Yeasin
-http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf
-
+## PyTorch video documentation
+* [Video datasets](https://docs.pytorch.org/vision/main/datasets.html#video-classification)
+* [Optical Flow datasets for video motion estimation](https://docs.pytorch.org/vision/main/datasets.html#optical-flow)
 
 ## [Main optimization link in PyTorch](https://docs.pytorch.org/docs/stable/optim.html)
 * [PyTorch optimization methods](https://docs.pytorch.org/docs/stable/optim.html#algorithms).
