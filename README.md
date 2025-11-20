@@ -18,7 +18,7 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 ```
 
 
-OPEN AI MODELS:
+# Open AI Models
 HistoQC is an open-source quality control tool for digital pathology slides
 HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC 
 
@@ -107,7 +107,7 @@ https://humantumoratlas.org/
 This database stores curated gene expression DataSets, as well as original Series and Platform records in the Gene Expression Omnibus (GEO) repository. 
 HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/ 
  
-
+## Explainability
 maybe include Grad-CAM updates/versions such as Grad-CAM++, EighenGrad-CAM etc - some references are included at the end of this GitHub
 https://github.com/jacobgil/pytorch-grad-cam
 https://arxiv.org/abs/2011.08891
