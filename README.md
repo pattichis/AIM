@@ -43,7 +43,7 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 https://www.kpmp.org/about-kpmp)
 * [HUBMAP: Human BioMolecular Atlas Program Data Portal: An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data](HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG)
 * [TCGA: The Cancer Genome Atlas Program](HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA)
-* [GTEx: The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects](GTEX HTTPS://GTEXPORTAL.ORG/HOME/)
+* [GTEx: The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects](HTTPS://GTEXPORTAL.ORG/HOME/)
 * [NCI's CPTAC: Clinical Proteomic Tumor Analysis Consortium (proteomics, genomics, histopathology)](HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC) 
 * [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
 
@@ -125,7 +125,7 @@ HTTPS://WWW.NCBI.NLM.NIH.GOV/GDS/
 * [A public endoscopic video dataset for polyp detection](https://github.com/dashishi/LDPolypVideo-Benchmark)
 * [Carotid Ultrasound Boundary Study (CUBS): Technical considerations on an open multi-center analysis of computerized measurement systems for intima-media thickness measurement on common carotid artery longitudinal B-mode ultrasound scans](https://data.mendeley.com/datasets/m7ndn58sv6/1)
   
-# Tensorflow models for video and multimodal risk assessment (select)
+# Tensorflow models for video and multimodal risk assessment 
 * [DISIML models: Echo, ECG, tabular data models, and autoencoders for dimensionality reduction](https://alvarouc.gitlab.io/disiml/)
 * [A Large-scale Multimodal Study for Predicting Mortality Risk Using Minimal and Low Parameter Models and Separable Risk Assessment](https://ieeexplore.ieee.org/abstract/document/10839321)
 * [Deep-learning-assisted analysis of echocardiographic videos improves predictions of all-cause mortality](https://www.nature.com/articles/s41551-020-00667-9)
