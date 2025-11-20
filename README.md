@@ -4,6 +4,7 @@ This repo contains links to datasets and models associated with:
 A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” submitted to
 *IEEE Journal of Biomedical and Health Informatics*, 2025.
 
+```bibtex
 @article{AIinMedicalImaging,
   title={Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
   author={Panayides, A. S., and Chen, H. and Filipovic, N. D. and Geroski, T. and Hou, K. and Lekadir, K. and 
