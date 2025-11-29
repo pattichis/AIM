@@ -117,13 +117,26 @@ https://www.kpmp.org/about-kpmp)
 * [Related OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
 * [OpenAI models](https://github.com/openai/gpt-oss)
 
-# Generative AI Image Models (papers only)
+# Generative AI Image Models 
 * [Deterministic Medical Image Translation via High-fidelity Brownian Bridges](https://arxiv.org/pdf/2503.22531) 
   (CVPR 2025 (preprint) paper only).
-  General (cross-modality translation). MRI/CT simulated datasets (no fixed subject count). Brownian Bridge Diffusion.
-  Image-to-Image method. Deterministic diffusion using Brownian bridge paths to connect source and target modalities,
+  General (cross-modality translation) using MRI/CT simulated datasets (no fixed subject count). This is an 
+  image-to-image method. Deterministic diffusion using Brownian bridge paths to connect source and target modalities,
   improving realism and consistency without stochastic sampling.
-  
+* [GDM-VE: Geodesic Diffusion Models for Medical Image-to-Image Generation (2025)](https://github.com/mirthAI/GDM-VE) (GitHub link, paper link also).
+  MRI & CT (brain, thoracic; open datasets). Geodesic Diffusion Model. Image-to-image method. Introduces a geodesic metric in latent
+  space for efficient and stable sampling in medical image-to-image synthesis.
+* [Cross-conditioned Diffusion Model for Medical Image to Image Translation (2024)](https://arxiv.org/abs/2409.08500) (paper only).
+  Multi-modal MRI (T1, T2, FLAIR; public datasets). Image-to-Image method. Cross-modality conditioning where the source MRI guides
+  target-modality diffusion; modality-specific encoders enhance structural and contrast fidelity.
+* [GitHub: Cascaded diffusion models for medical image translation](https://github.com/ycaris/Cascaded-Multi-Path-Diffusion-Medical-Image-Translation)
+  [paper link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002251). Brain / Cardiac (general datasets).
+  Image-to-Image method. Combines a coarse GAN prior with a diffusion refinement stage; shortcut paths reduce steps while preserving
+  fidelity and uncertainty quantification.
+* [Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation (JBHI 2025)](https://github.com/mirthAI/Fast-DDPM) (GitHub and paper link).
+  General (denoising, SR, modality transfer). MRI / CT (Brain, Thorax; open datasets). Image-to-Image method. Efficient DDPM variant using only 10 diffusion steps;
+  achieves state-of-the-art results on denoising, super-resolution, and modality translation tasks.
+
 
 # Generative AI Video Models
 * [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
