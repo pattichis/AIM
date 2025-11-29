@@ -117,6 +117,14 @@ https://www.kpmp.org/about-kpmp)
 * [Related OpenAI o3 and o4-mini System](https://openai.com/index/o3-o4-mini-system-card/)
 * [OpenAI models](https://github.com/openai/gpt-oss)
 
+# Generative AI Image Models (papers only)
+* [Deterministic Medical Image Translation via High-fidelity Brownian Bridges](https://arxiv.org/pdf/2503.22531) 
+  (CVPR 2025 (preprint) paper only).
+  General (cross-modality translation). MRI/CT simulated datasets (no fixed subject count). Brownian Bridge Diffusion.
+  Image-to-Image method. Deterministic diffusion using Brownian bridge paths to connect source and target modalities,
+  improving realism and consistency without stochastic sampling.
+  
+
 # Generative AI Video Models
 * [EchoNet-Synthetic: Privacy-preserving Video Generation for Safe Medical Data Sharing](https://github.com/HReynaud/EchoNet-Synthetic) and [paper](https://arxiv.org/abs/2406.00808)  (also see Echonet datasets and models).
 * [Endora: Video Generation Models as Endoscopy Simulators](https://github.com/CUHK-AIM-Group/Endora)
