@@ -49,17 +49,20 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [Sarder Lab: Codes for computational pathology from Pinaki Sarder's lab](https://github.com/SarderLab)
 * [MoPaDi - Morphing Histopathology Diffusion](HTTPS://GITHUB.COM/KATHERLAB/MOPADI)
 
+# Cancer imaging
+* [Low-Rank Adaptation of Pre-Trained Large Vision Models for Improved Lung Nodule Malignancy Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10843806), [NLSTx Dataset: A subset of difficult lung nodules from the NLST database](https://github.com/benVZ/NLSTx).
+* [NCI's CPTAC: Clinical Proteomic Tumor Analysis Consortium (proteomics, genomics, histopathology)](HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC) 
+* [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
+* [HTAN is a National Cancer Institute (NCI)-funded Cancer MoonshotSM initiative to construct 3-dimensional atlases of the dynamic cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease](https://humantumoratlas.org/)
+
 # Open datasets focused on pathology
 * [The KPMP is a multi-year collaboration of leading research institutions to study patients with kidney disease](
 https://www.kpmp.org/about-kpmp)
 * [HUBMAP: Human BioMolecular Atlas Program Data Portal: An open platform to discover, visualize and download standardized healthy single-cell and spatial tissue data](HTTPS://PORTAL.HUBMAPCONSORTIUM.ORG)
 * [TCGA: The Cancer Genome Atlas Program](HTTPS://WWW.CANCER.GOV/CCG/RESEARCH/GENOME-SEQUENCING/TCGA)
 * [GTEx: The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects](HTTPS://GTEXPORTAL.ORG/HOME/)
-* [NCI's CPTAC: Clinical Proteomic Tumor Analysis Consortium (proteomics, genomics, histopathology)](HTTPS://GDC.CANCER.GOV/ABOUT-GDC/CONTRIBUTED-GENOMIC-DATA-CANCER-RESEARCH/CLINICAL-PROTEOMIC-TUMOR-ANALYSIS-CONSORTIUM-CPTAC) 
-* [NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with analysis and exploration tools](HTTPS://DATACOMMONS.CANCER.GOV/REPOSITORY/IMAGING-DATA-COMMONS) 
 * [Download and visually explore data to understand the functionality of human tissues at the cellular level with Chan Zuckerberg CELL by GENE Discover (CZ CELLxGENE Discover](https://cellxgene.cziscience.com/)
 * [The Human Cell Atlas is a global consortium that is mapping every cell type in the human body, creating a 3-dimensional Atlas of human cells to transform our understanding of biology and disease](https://www.humancellatlas.org) 
-* [HTAN is a National Cancer Institute (NCI)-funded Cancer MoonshotSM initiative to construct 3-dimensional atlases of the dynamic cellular, morphological, and molecular features of human cancers as they evolve from precancerous lesions to advanced disease](https://humantumoratlas.org/)
 * [BRIDGE2AI's Functional genomics project (protein-protein interactions, single-cell imaging (Trey Ideker at UCSD is PI)](HTTPS://BRIDGE2AI.ORG/CM4AI_/)
 * [4 dimensional nucleome (imaging and omics to relate the spatial orientation of the nucleome to gene regulation)](https://4dnucleome.org/)
 * [Apollo: The Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) Network (DOD, VA, NCI; cancer program with genomics, proteomics, pathology and excellent longitudinal clinical data of veterans](https://www.cancer.gov/about-nci/organization/cbiit/projects/apollo)
