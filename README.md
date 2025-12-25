@@ -18,8 +18,8 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
   Tsaftaris, S. A. and Amini, A. and Fu, H. and Kyriacou, E. and Loizou, C. P. and Zervakis, M. and 
   Saltz, J. H. and Shamout, F. E. and Wong, K. C. L. and Yao, J. and Fotiadis, D. I. and
   Pattichis, C. S. and Pattichis, M. S.}
-  journal={submitted to IEEE Journal on Biomedical and Health Informatics},
-  year={2024}
+  journal={IEEE Journal on Biomedical and Health Informatics},
+  year={2026}
 }
 ```
 
@@ -100,12 +100,13 @@ https://www.kpmp.org/about-kpmp)
 * A large-scale endoscopic video dataset with over 33K video clips.
 * Supports 3 types of downstream tasks, including classification, segmentation, and detection.
 
-## SAM foundation models for image and video segmentation
+## SAM foundation models for image and video segmentation, and 3D reconstruction
 * [SAM (Segment Anything Model, META, 2023)](HTTPS://GITHUB.COM/FACEBOOKRESEARCH/SEGMENT-ANYTHING)
 * [SAM2 foundation model for video](https://github.com/facebookresearch/sam2)
 * [SAM2 paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)
 * [SAM3 A unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts](https://ai.meta.com/blog/segment-anything-model-3/)
 * [SAM3 paper](https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/)
+* [SAM 3D contains two state-of-the-art models that enable 3D reconstruction of objects and humans from a single image.](https://ai.meta.com/sam3d/), [GitHub](https://github.com/facebookresearch/sam-3d-objects).
 
 # Instructional Medical Videos
 ## A dataset for medical instructional video classification and question answering
