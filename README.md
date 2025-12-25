@@ -1,6 +1,7 @@
 # AIM
-This document contains links to select datasets, models, papers, and related PyTorch links related to AI in Medical Image Analysis.<br />
-The links have been verified in December, 2025. 
+This document contains links to selected datasets, models, papers, and related PyTorch links related to AI in Medical Image and video Analysis.<br />
+
+The links also include general-purpose foundation models, essential PyTorch models, and datasets. The links have been verified in December, 2025. 
 
 🔴 **Important:** Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 **Important:** Right-click on each link to open in a new browser window.
