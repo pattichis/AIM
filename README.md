@@ -8,8 +8,7 @@ The links also include general-purpose foundation models, essential PyTorch mode
 
 Please reference:
 
-A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers,” to appear in
-*IEEE Journal of Biomedical and Health Informatics*, 2026.
+A. S. Panayides et al., "Position Paper: Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers," *IEEE J. Biomed. Health Inform.*, vol. 10, no. 2, pp. 1187–1202, Feb. 2026, doi: 10.1109/JBHI.2025.3649496.
 
 ```bibtex
 @article{AIinMedicalImaging,
