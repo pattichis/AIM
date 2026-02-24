@@ -13,14 +13,20 @@ A.S. Panayides *et al.*, “Artificial Intelligence in Medical Image Analysis: A
 
 ```bibtex
 @article{AIinMedicalImaging,
-  title={Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
+  title={Position paper: Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers},
   author={Panayides, A. S., and Chen, H. and Filipovic, N. D. and Geroski, T. and Hou, K. and Lekadir, K. and 
   Marias, K. and Matsopoulos, G. and Papanastasiou, G. and Sarder, P. and Tourassi, G. and  
   Tsaftaris, S. A. and Amini, A. and Fu, H. and Kyriacou, E. and Loizou, C. P. and Zervakis, M. and 
   Saltz, J. H. and Shamout, F. E. and Wong, K. C. L. and Yao, J. and Fotiadis, D. I. and
   Pattichis, C. S. and Pattichis, M. S.}
   journal={IEEE Journal on Biomedical and Health Informatics},
-  year={2026}
+  volume  = {10},
+  number  = {2},
+  pages   = {1187 - 1202},
+  doi     = {10.1038/s41586-021-00000-x},
+  month   = feb,
+  year    = {2026},
+  doi     = {10.1109/JBHI.2025.3649496}
 }
 ```
 
