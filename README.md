@@ -31,6 +31,15 @@ A. S. Panayides et al., "Position Paper: Artificial Intelligence in Medical Imag
 
 For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattichi@unm.edu).
 
+# Recent developments
+
+* [MedGemma](https://developers.google.com/health-ai-developer-foundations/medgemma) 
+> The MedGemma collection contains Google's most capable open models for medical text and image comprehension, built on Gemma 3. Developers can use MedGemma to accelerate the development of healthcare-based AI applications. The following versions of MedGemma are available:
+> - MedGemma 1.5: 4B multimodal
+> - MedGemma 1: 4B multimodal version and 27B text-only and multimodal versions.
+> For details about how to use the model and how it was trained, see the MedGemma model card.
+> - ** The text above is attributed to Professor Jack Smith at the UNM School of Medicine. **
+
 # Open Models for Digital Image Analysis
 
 # A generalist vision–language foundation model for diverse biomedical tasks
