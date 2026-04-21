@@ -38,7 +38,7 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 > - MedGemma 1.5: 4B multimodal
 > - MedGemma 1: 4B multimodal version and 27B text-only and multimodal versions.
 > For details about how to use the model and how it was trained, see the MedGemma model card.
-> - ** The text above is attributed to Professor Jack Smith at the UNM School of Medicine. **
+- ** The text above is attributed to Professor Jack Smith at the UNM School of Medicine. **
 
 # Open Models for Digital Image Analysis
 
