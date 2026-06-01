@@ -42,6 +42,9 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 
 \- The text describing MedGemma is attributed to Professor Jack Smith at the UNM School of Medicine. 
 
+* [OpenRad](https://konstvr.github.io/OpenRad/)
+> Expert-curated repository of Open-access AI models for Radiology
+  
 # Open Models for Digital Image Analysis
 
 # A generalist vision–language foundation model for diverse biomedical tasks
