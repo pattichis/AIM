@@ -45,7 +45,7 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [OpenRad](https://konstvr.github.io/OpenRad/)
 > Expert-curated repository of Open-access AI models for Radiology
   
-# Open Models for Digital Image Analysis
+# Open Models for Medical Image Analysis
 
 # A generalist vision–language foundation model for diverse biomedical tasks
 * [BiomedGPT is pre-trained and fine-tuned with multi-modal & multi-task biomedical datasets](https://github.com/taokz/BiomedGPT)
