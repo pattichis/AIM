@@ -61,7 +61,7 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [pytorch-image-models: Contains pre-trained trasnformer models](https://github.com/huggingface/pytorch-image-models?tab=readme-ov-file#getting-started-documentation)
 
 
-## Toolboxes for specific Applications
+## 3D Medical imaging toolbox
 * [TorchIO](https://github.com/TorchIO-project/torchio)
    TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
 
