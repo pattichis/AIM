@@ -59,7 +59,11 @@ For updates, email Prof. Marios S. Pattichis at [pattichi@unm.edu](mailto:pattic
 * [vit-pytorch: PyTorch-based implementations of vision transformer architectures](https://github.com/lucidrains/vit-pytorch/blob/main/README.md)
 * [vit-tensorflow: Tensorflow-based implementations of vision transformer architectures](https://github.com/taki0112/vit-tensorflow)
 * [pytorch-image-models: Contains pre-trained trasnformer models](https://github.com/huggingface/pytorch-image-models?tab=readme-ov-file#getting-started-documentation)
- 
+
+
+## Toolboxes for specific Applications
+* [TorchIO](https://github.com/TorchIO-project/torchio)
+   TorchIO for 3D Medical Imaging Transformations and MRI image intensity variations 
 
 ## Python libraries for Pathology image analysis
 * [HistoQC is an open-source quality control tool for digital pathology slides](HTTPS://GITHUB.COM/CHOOSEHAPPY/HISTOQC)
