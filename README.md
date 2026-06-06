@@ -6,9 +6,9 @@ The links also include general-purpose foundation models, essential PyTorch mode
 🔴 **Important:** Click on the Outline button (upper-right button in GitHub) for a table of contents and to jump to a particular topic.<br />
 🔴 **Important:** Right-click on each link to open in a new browser window.
 
-Please reference:
+Please reference the open-access paper:
 
-A. S. Panayides et al., "Position Paper: Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers," *IEEE J. Biomed. Health Inform.*, vol. 10, no. 2, pp. 1187–1202, Feb. 2026, doi: 10.1109/JBHI.2025.3649496.
+[A. S. Panayides et al., "Position Paper: Artificial Intelligence in Medical Image Analysis: Advances, Clinical Translation, and Emerging Frontiers," *IEEE J. Biomed. Health Inform.*, vol. 10, no. 2, pp. 1187–1202, Feb. 2026, doi: 10.1109/JBHI.2025.3649496.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11319419)
 
 ```bibtex
 @article{AIinMedicalImaging,
